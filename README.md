@@ -18,12 +18,12 @@
 
 ## Authors
 
-👤 **Author1**
+**Author1**
 
 - GitHub: [@githubhandle](https://github.com/rawanmt)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/rawanmt)
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
